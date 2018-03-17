@@ -14,6 +14,8 @@ montage **/*.png -monitor -geometry 32x32+0+0 out.jpg
 
 ## Installation
 
+This script requires [ImageMagick](http://www.imagemagick.org/script/download.php) to be installed on your machine. Then you can clone this repo:
+
 ```
 git clone https://github.com/vorg/screenshot-viz
 cd screenshot-viz
